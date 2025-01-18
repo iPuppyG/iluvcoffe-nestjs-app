@@ -22,6 +22,12 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+# <p>The Official <a href="https://learn.nestjs.com/p/fundamentals" target="_blank">Nestjs Fundaments</a> Course Project
+
+![App Diagram](images/app-digram.png)
+
+### To access Swagger API documentation of this project, go to [http://localhost:3000/api](http://localhost:3000/api)
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
