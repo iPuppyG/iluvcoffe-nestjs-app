@@ -22,7 +22,7 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-# <p>The Official <a href="https://learn.nestjs.com/p/fundamentals" target="_blank">Nestjs Fundaments</a> Course Project
+# <p>The Official <a href="https://learn.nestjs.com/p/fundamentals" target="_blank">Nestjs Fundamentals</a> Course Project
 
 ![App Diagram](images/app-digram.png)
 
