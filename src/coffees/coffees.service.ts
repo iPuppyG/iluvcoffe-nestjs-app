@@ -17,7 +17,7 @@ export class CoffeesService {
     private readonly coffeeRepository: Repository<Coffee>,
     @InjectRepository(Flavor)
     private readonly flavorRepository: Repository<Flavor>,
-    private readonly connection: Connection, // TODO Connection is deprecated
+    private readonly connection: Connection, // FIXME Connection is deprecated
     @Inject(COFFEE_BRANDS) coffeeBrands: string[],
     private readonly configService: ConfigService,
   ) {

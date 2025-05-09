@@ -26,7 +26,7 @@ import { ApiKeyGuard } from './common/guards/api-key/api-key.guard';
           password: configService.get<string>('DATABASE_PASSWORD'),
           database: configService.get<string>('DATABASE_NAME'),
           autoLoadEntities: true,
-          synchronize: configService.get<boolean>('DATABASE_SYNCHRONIZE'), // TODO NEVER USE IN PRODUCTION - WILL AUTO SYNC SCHEMA TO DB ON EVERY START  - USE MIGRATIONS INSTEAD
+          synchronize: configService.get<boolean>('DATABASE_SYNCHRONIZE'), // NEVER USE IN PRODUCTION
         };
       },
     }),

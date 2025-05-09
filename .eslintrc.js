@@ -29,3 +29,11 @@ module.exports = {
     ],
   },
 };
+
+{
+  "presets": [
+    ["@babel/preset-react", {
+      "runtime": "automatic" // "classic" 是旧的方式
+    }]
+  ]
+}
